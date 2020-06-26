@@ -18,5 +18,6 @@ int factorial()
 int prime(int x)
 {
 }
-//Hello
+//Hello jiiii how are you 
+//kmkmml,llll
 
