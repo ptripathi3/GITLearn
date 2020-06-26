@@ -15,3 +15,8 @@ int factorial()
 {
 }
 //HII
+int prime(int x)
+{
+}
+//Hello
+
