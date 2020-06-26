@@ -11,8 +11,7 @@ int div(int x,int y)
 {
 	return x/y;
 }
-int fact(int x){
-	printf("Factorial is");
-	return 1;
+int prime(int x)
+{
 }
-
+//Hello
